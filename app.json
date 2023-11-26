@@ -1,5 +1,5 @@
 {
-    "name": "steadyfunds",
+    "name": "Cyber-X Whatsapp Bot",
     "description": "This is a 3ʳᵈ Party Application software for WhatsApp with Many Feature & many Commands",
     "repository": "https://github.com/maxwelloza1/CYBER-X-WHATSAPP-BOT",
     "logo": "https://telegra.ph/file/71c859102f3625d06204b.jpg",
@@ -12,19 +12,18 @@
     ],
     "env": {
         "SESSION_ID": {
-            "description": "Type the Session-ID you got from scaning QR",
-            "required": true,
+            "description": "cyber-x@;;;MUkwQZga#TLb2UlhrWYIXmAiVcGWJTf5eZVLvJV_bDAFLfpYUh3c": true,
             "value": ""
         },
         "HEROKU_API_KEY": {
-            "description": "Enter your heroku account api key",
+            "description": "72fc7173-2e57-48cf-ba1f-aced5bcbbb24",
             "required": true,
             "value": ""
         },
         "HEROKU_APP_NAME": {
             "description": "Enter you pushed app Name",
             "required": true,
-            "value": ""
+            "value": "steadydbsbymax"
         },
         "WORK_TYPE": {
             "description": "Add the worktype of the Bot ( private , public , only_group )",
