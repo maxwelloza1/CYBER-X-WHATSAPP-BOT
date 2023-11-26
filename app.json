@@ -12,7 +12,8 @@
     ],
     "env": {
         "SESSION_ID": {
-            "description": "cyber-x@;;;MUkwQZga#TLb2UlhrWYIXmAiVcGWJTf5eZVLvJV_bDAFLfpYUh3c": true,
+            "description": "cyber-x@;;;MUkwQZga#TLb2UlhrWYIXmAiVcGWJTf5eZVLvJV_bDAFLfpYUh3c",
+            "required": true,
             "value": ""
         },
         "HEROKU_API_KEY": {
